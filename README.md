@@ -1,7 +1,7 @@
 # Inuse - Locked File Inspector
 
 # inuse.exe
-Inuse is a 32-bit console mode program for Windows. Its purpose is to reveal whether one or more processes have opened handles on a certain file, blocking access. Optionally, the program also allows you to close the handle and/or the owener's process.
+Inuse is a 32-bit console mode program for Windows. Its purpose is to reveal whether one or more processes have opened handles on a certain file, blocking access. Optionally, the program also allows you to close the handle and/or the owner's process.
 To read a guide about its usage, just run it without parameters or with the –h option.
 
 # test.exe
